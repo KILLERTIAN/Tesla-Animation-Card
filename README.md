@@ -2,11 +2,11 @@
 
 This is made from the help of a tutorial available on Youtube
 
-Video Link :-
+Video Link:- https://youtu.be/sgbrOOIOPDw?si=_I4q5J0iu3aJGo6S
 
-Channel Link :-
+Channel Link:- https://www.youtube.com/channel/UCGWO278tPXuf8s4gfIcRcIw
 
-Webpage Link :- https://killertian.github.io/Tesla-Animation-Card/
+Webpage Link:- https://killertian.github.io/Tesla-Animation-Card/
 
 Preview of page 
 
